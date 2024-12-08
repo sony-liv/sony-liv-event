@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",SONYLIV 1
-https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",SONYLIV 2
-https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",VfL Wolfsburg vs Mainz
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8?hdnea=exp=1733701074~acl=*~id=155678448410001965141733651074561~hmac=4a8f8739f4956ca46e087870558946c3fa070c14a2e98a9122109691ad352587
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",
+
