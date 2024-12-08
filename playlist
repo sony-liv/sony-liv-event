@@ -1,10 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",AL-HILAL VS AL-RAED
-https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",AL-TAAWOUN VS AL-AHLI
-https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BORUSSIA M'GLADBACH VS BORUSSIA DORTMUND
-https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/master_mdh.m3u8?hdnea=exp=1733628360~acl=*~id=155678448410001965141733578360307~hmac=7a7f005f184f251daa3c6953bcd4be5f3e21281d756ec3f2c1cfad814ab0ca04
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",NEW ZEALAND VS ENGLAND
+https://sonydaimenew.akamaized.net/hls/live/2037140/DAI20ME-V3/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",UFC 2024
+https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BANGLADESH U-19 VS INDIA U-19
 https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
