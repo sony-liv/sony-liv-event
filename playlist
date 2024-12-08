@@ -2,5 +2,7 @@
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",UFC 2024
 https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BAN U-19 VS IND U-19
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BAN U-19 VS IND U-19 [ENG]
 https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",BAN U-19 VS IND U-19 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/master_mdh.m3u8?hdnea=exp=1733664849~acl=*~id=155678448410001965141733614848239~hmac=5f1e282dd512b965c031753deda8c6d1c95268ebffd67a186c4079dd431da527
