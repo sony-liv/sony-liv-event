@@ -1,14 +1,20 @@
 #EXTM3U
 
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Football Blockbusters 24/7
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1733846920~acl=*~id=155678448410001965141733796920320~hmac=fe4f2f10686435ec463edac2156e2bf7b129fb186590d5f2d2a3a84fbe865562
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Girona vs Liverpool
-https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Dinamo Zagreb vs Celtic
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1733883461~acl=*~id=155678448410001965141733833461631~hmac=f2cc73c5136a65f5d5a9e014e8d5e66f0bab5f64a4d306ffbe9c1ef4f2b29357
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Atalanta vs Real Madrid
 https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",WWE NXT 2024
 https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Borussia Dortmund vs Barcelona
+https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Juventus vs Man City
+https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Arsenal vs Monaco
 https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",UFC 2024
 https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
