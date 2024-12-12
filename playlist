@@ -1,12 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Football Blockbusters 24/7
-https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1734028802~acl=*~id=155678448410001965141733978802385~hmac=8eb1a9f1b563ce9c275d588d4e5c9bdd074de1ff7f46a176c8925cb0045fadd6
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Southern Spartans vs Northern Challengers
-https://sonydaimenew.akamaized.net/hls/live/2022317/MA03-V3/master_mdh.m3u8?hdnea=exp=1734028802~acl=*~id=155678448410001965141733978802385~hmac=8eb1a9f1b563ce9c275d588d4e5c9bdd074de1ff7f46a176c8925cb0045fadd6
-#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Astana vs Chelsea
-https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Union SG vs Nice
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV17UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Istanbul Basaksehir vs Heidenheim
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002935/LIV08UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",HJK vs Molde
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002934/LIV07UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Fiorentina vs LASK
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002933/LIV06UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",FC Noah vs Apoel Nicosia
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002932/LIV05UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Copenhagen vs Heart of Midlothian
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002930/LIV03UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Dinamo Minsk vs Larne
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Hoffenheim vs FCSB
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003104/LIV16UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",PAOK vs Ferencvaros
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2003103/LIV15UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Olympiacos vs Twente
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002941/LIV14UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Malmo vs Galatasaray
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002940/LIV13UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Ludogorets vs AZ Alkmaar
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002939/LIV12UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Roma vs Braga
+https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Viktoria Plzen vs Manchester United
-https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
+https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Legia Warsaw vs Lugano
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002936/LIV09UEFA/master_mdh.m3u8?hdnea=exp=1734064828~acl=*~id=155678448410001965141734014828298~hmac=b625c77f395ceeac9233d6585e34a5eec1b2c7509e1f7075149791c2369a151c
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",UFC 2024
 https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
