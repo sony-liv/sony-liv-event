@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Football Blockbusters 24/7
+https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME/master_mdh.m3u8?hdnea=exp=1734028802~acl=*~id=155678448410001965141733978802385~hmac=8eb1a9f1b563ce9c275d588d4e5c9bdd074de1ff7f46a176c8925cb0045fadd6
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Southern Spartans vs Northern Challengers
 https://static.vecteezy.com/system/resources/previews/023/032/674/stream-starting-soon-animation-blue-neon-sign-glowing-suitable-for-live-streaming-free-video.webm
 #EXTINF:-1,tvg-logo="https://i.ibb.co/m8LptVP/sonyliv.png",Astana vs Chelsea
